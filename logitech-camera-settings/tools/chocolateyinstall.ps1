@@ -24,7 +24,7 @@ $packageArgs = @{
   url           = $url
   #file         = $fileLocation
 
-  softwareName  = 'logitech-camera-settings*' #part or all of the Display Name as you see it in Programs and Features. It should be enough to be unique
+  softwareName  = 'Logitech Camera Settings' #part or all of the Display Name as you see it in Programs and Features. It should be enough to be unique
 
   # Checksums are now required as of 0.10.0.
   # To determine checksums, you can get that from the original site if provided. 
