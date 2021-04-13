@@ -17,38 +17,35 @@
     <copyright>2020 Logitech</copyright>
     <licenseUrl>http://rawcdn.githack.com/yeputons/chocolatey-packages/e57cff2837105f126426f4db046a5312e4c830bc/logitech-camera-settings/tools/LogitechEula.txt</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <tags>logitech-camera-settings logitech camera webcam</tags>
+    <tags>logitech-camera-settings logitech camera webcam license</tags>
     <summary>Setting up Logitech web cameras</summary>
     <description>
-        **This package is not official and is not affiliated by Logitech!**.
-        Logitech Camera Settings is a software released by Logitech for configuring
-        their different web cameras.
-        This package merely downloads the installer from the official website and runs it.
-        By doing so, you are agreeing to the EULA.
+**This package is not official and is not affiliated with Logitech!** Logitech Camera Settings is a software released by Logitech for configuring their web cameras, such as Logitech BRIO's viewing angle.
 
-        This software appears on the [Downloads page for Logitech BRIO](https://prosupport.logi.com/hc/ru/articles/360039591834-Downloads-BRIO)
-        and lists following compatible products as of 2021-04-13:
+This package merely downloads the installer from the official website and runs it. By doing so, you are agreeing to the EULA.
 
-        * B525 HD Webcam
-        * BCC950 ConferenceCam
-        * BRIO
-        * C505e HD Webcam
-        * C920e Business Webcam
-        * C925e Webcam
-        * ConferenceCam CC3000e
-        * ConferenceCam Connect
-        * Connect Kit
-        * GROUP
-        * GROUP Kit
-        * MEETUP
-        * PTZ PRO 2
-        * PTZ Pro Camera
-        * Rally
-        * Rally Camera
-        * Webcam C930e
+This software appears on the [Downloads page for Logitech BRIO](https://prosupport.logi.com/hc/ru/articles/360039591834-Downloads-BRIO) and lists following compatible products as of 2021-04-13:
+
+* B525 HD Webcam
+* BCC950 ConferenceCam
+* BRIO
+* C505e HD Webcam
+* C920e Business Webcam
+* C925e Webcam
+* ConferenceCam CC3000e
+* ConferenceCam Connect
+* Connect Kit
+* GROUP
+* GROUP Kit
+* MEETUP
+* PTZ PRO 2
+* PTZ Pro Camera
+* Rally
+* Rally Camera
+* Webcam C930e
     </description>
 
-    <releaseNotes>Version 2.12.8 has been released on 2020-1026.</releaseNotes>
+    <releaseNotes>Version 2.12.8 has been released on 2020-10-26.</releaseNotes>
     <!-- =============================== -->      
   </metadata>
   <files>
