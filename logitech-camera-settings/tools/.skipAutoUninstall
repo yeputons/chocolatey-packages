@@ -1,0 +1,2 @@
+As of 2021-04-13, Automatic Uninstaller was unable to detect NSIS uninstaller and uninstall silently.
+Hence, we do it ourselves.
