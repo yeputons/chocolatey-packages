@@ -41,7 +41,7 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <iconUrl>http://rawcdn.githack.com/yeputons/chocolatey-packages/e8d620b7652fdd5326d0e4cdee4747284c0465cb/logitech-camera-settings/icons/logitech-camera-settings.png</iconUrl>
     <copyright>2020 Logitech</copyright>
     <!-- If there is a license Url available, it is required for the community feed -->
-    <!-- <licenseUrl>Software License Location __REMOVE_OR_FILL_OUT__</licenseUrl> -->
+    <licenseUrl>http://rawcdn.githack.com/yeputons/chocolatey-packages/e57cff2837105f126426f4db046a5312e4c830bc/logitech-camera-settings/tools/LogitechEula.txt</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <!--<projectSourceUrl>Software Source Location - is the software FOSS somewhere? Link to it with this</projectSourceUrl>-->
     <!--<docsUrl>At what url are the software docs located?</docsUrl>-->
@@ -53,8 +53,10 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
         **This package is not official and is not affiliated by Logitech!**.
         Logitech Camera Settings is a software released by Logitech for configuring
         their different web cameras.
+        This package merely downloads the installer from the official website and runs it.
+        By doing so, you are agreeing to the EULA.
 
-        Namely, it appears on the [Downloads page for Logitech BRIO](https://prosupport.logi.com/hc/ru/articles/360039591834-Downloads-BRIO)
+        This software appears on the [Downloads page for Logitech BRIO](https://prosupport.logi.com/hc/ru/articles/360039591834-Downloads-BRIO)
         and lists following compatible products as of 2021-04-13:
 
         * B525 HD Webcam
@@ -76,7 +78,7 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
         * Webcam C930e
     </description>
 
-    <releaseNotes>Version 2.12.8 released on 2020-1026.</releaseNotes>
+    <releaseNotes>Version 2.12.8 has been released on 2020-1026.</releaseNotes>
     <!-- =============================== -->      
 
     <!-- Specifying dependencies and version ranges? https://docs.nuget.org/create/versioning#specifying-version-ranges-in-.nuspec-files -->
