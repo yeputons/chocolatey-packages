@@ -7,3 +7,8 @@
 # NOTE: For upgrades - like the uninstall script, this script always runs from 
 #  the currently installed version, not from the new upgraded package version.
 
+# Actual until https://github.com/gammu/gammu/issues/595 is fixed.
+If (Get-Service GammuSMSD -ErrorAction SilentlyContinue) {
+  Write-Host "Stopping Gammu SMSD Service"
+  Stop-Service GammuSMSD -Force
+}
