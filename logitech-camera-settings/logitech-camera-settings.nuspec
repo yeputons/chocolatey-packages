@@ -15,7 +15,7 @@
     <projectUrl>https://support.logi.com/hc/en-us/articles/360049055854</projectUrl>
     <iconUrl>http://rawcdn.githack.com/yeputons/chocolatey-packages/e8d620b7652fdd5326d0e4cdee4747284c0465cb/logitech-camera-settings/icons/logitech-camera-settings.png</iconUrl>
     <copyright>2020 Logitech</copyright>
-    <licenseUrl>http://rawcdn.githack.com/yeputons/chocolatey-packages/e57cff2837105f126426f4db046a5312e4c830bc/logitech-camera-settings/tools/LogitechEula.txt</licenseUrl>
+    <licenseUrl>http://rawcdn.githack.com/yeputons/chocolatey-packages/f64fe17c97b54b21afd76a2549685adba4f51772/logitech-camera-settings/LogitechEula.txt</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <tags>logitech-camera-settings logitech camera webcam license</tags>
     <summary>Setting up Logitech web cameras</summary>
