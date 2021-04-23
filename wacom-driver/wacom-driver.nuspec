@@ -10,18 +10,18 @@
     <!-- ============================== -->
 
     <!-- == SOFTWARE SPECIFIC SECTION == -->
-    <title>Wacom Drivers (Install)</title>
+    <title>Wacom Driver (Install)</title>
     <authors>Wacom Technology Corp.</authors>
     <projectUrl>https://www.wacom.com/en-us/support/product-support/drivers</projectUrl>
-    <!--<iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/wacom-driver.png</iconUrl>-->
+    <iconUrl>http://rawcdn.githack.com/yeputons/chocolatey-packages/28dfbbb2826b30af95daf750614b4ad7c4b30564/wacom-driver/icons/wacom-tablet-properties.png</iconUrl>
     <copyright>Wacom Technology Corp. 2021</copyright>
     <licenseUrl>https://cdn.wacom.com/u/productsupport/drivers/win/professional/releasenotes/eulas/2020/en.pdf</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <tags>wacom-driver wacom pen tablet driver</tags>
-    <summary>Drivers and software for Wacom pen products, including Wacom Tablet Properties and Wacom Desktop Center</summary>
+    <summary>Driver and software for Wacom pen products, including Wacom Tablet Properties and Wacom Desktop Center</summary>
     <description>
 **This package is not official and is not affiliated with Wacom!**
-This package installs drivers and supporting software for configuring Wacom hardware such as:
+This package installs a driver and supporting software for configuring Wacom hardware such as:
 
 * Pen computers: Wacom MobileStudio Pro (DTH-W1320 and others), Wacom Cintiq Companion (DTH-1320)
 * Pen displays: Wacom One Creative Pen Display (DTC133)
@@ -33,7 +33,7 @@ Smartpads, styluses and signature pads may require a separate driver.
 
 Following are installed:
 
-* Drivers for the table so it's recognized by other applications.
+* Driver for your hardware so it's recognized by other applications.
 * Wacom Tablet Properties for configuring per-application pen-to-screen mapping, button actions, etc.
 * Wacom Desktop Center for managing devices, backing up settings, etc.
   This application requires .NET 4.5, included as a dependency.
