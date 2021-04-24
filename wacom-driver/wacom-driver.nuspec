@@ -20,23 +20,20 @@
     <tags>wacom-driver wacom pen tablet driver</tags>
     <summary>Driver and software for Wacom pen products, including Wacom Tablet Properties and Wacom Desktop Center</summary>
     <description>
-**This package is not official and is not affiliated with Wacom!**
-This package installs a driver and supporting software for configuring Wacom hardware such as:
+**This package is not official and is not affiliated with Wacom!** This package installs a driver and supporting software for configuring Wacom hardware such as:
 
-* Pen computers: Wacom MobileStudio Pro (DTH-W1320 and others), Wacom Cintiq Companion (DTH-1320)
-* Pen displays: Wacom One Creative Pen Display (DTC133)
-* Pen tablets: One by Wacom (CTL-471 and others), Intuos Pro (PTH-451 and others)
-* Some accessoires: ExpressKey Remote (EKR-100)
+* Pen computers: Wacom MobileStudio Pro (DTH-W1320 and others), Wacom Cintiq Companion (DTH-1320).
+* Pen displays: Wacom One Creative Pen Display (DTC133).
+* Pen tablets: One by Wacom (CTL-471 and others), Intuos Pro (PTH-451 and others).
+* Some accessoires: ExpressKey Remote (EKR-100).
 
-You can see full list of compatible products in [release notes](https://cdn.wacom.com/u/productsupport/drivers/win/professional/releasenotes/Windows_6.3.42.html),
-Smartpads, styluses and signature pads may require a separate driver.
+You can see full list of compatible products in [release notes](https://cdn.wacom.com/u/productsupport/drivers/win/professional/releasenotes/Windows_6.3.42.html). Smartpads, styluses and signature pads may require a separate driver.
 
 Following are installed:
 
 * Driver for your hardware so it's recognized by other applications.
 * Wacom Tablet Properties for configuring per-application pen-to-screen mapping, button actions, etc.
-* Wacom Desktop Center for managing devices, backing up settings, etc.
-  This application requires .NET 4.5, included as a dependency.
+* Wacom Desktop Center for managing devices, backing up settings, etc. This application requires .NET 4.5, included as a dependency.
     </description>
     <releaseNotes>Version 6.3.42-2 has been released on 2021-01-26, see [release notes](https://cdn.wacom.com/u/productsupport/drivers/win/professional/releasenotes/Windows_6.3.42.html).</releaseNotes>
     <!-- =============================== -->      
