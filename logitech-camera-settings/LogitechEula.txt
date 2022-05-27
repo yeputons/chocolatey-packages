@@ -63,4 +63,4 @@ Any dispute arising between you and Logitech shall be resolved through final and
 This agreement sets forth the entire agreement between you and Logitech and supersedes all prior agreements, written or oral, with respect to the Software. No amendment to or modification of this EULA will be binding unless in writing and signed by Logitech. Any translation of this EULA is done for local requirements and in the event of an inconsistency between the English and any non-English version, the English version of this EULA will govern.
 
 The Software is protected by United States copyright law and international treaty. Unauthorized reproduction or distribution of the Software is subject to civil and criminal penalties.
-© 2020 Logitech. All rights reserved
+© 2022 Logitech. All rights reserved
