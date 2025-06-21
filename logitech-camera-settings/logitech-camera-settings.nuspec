@@ -4,7 +4,7 @@
   <metadata>
     <!-- == PACKAGE SPECIFIC SECTION == -->
     <id>logitech-camera-settings</id>
-    <version>2.12.8</version>
+    <version>2.12.20</version>
     <packageSourceUrl>https://github.com/yeputons/chocolatey-packages/tree/master/logitech-camera-settings</packageSourceUrl>
     <owners>Egor Suvorov</owners>
     <!-- ============================== -->
@@ -12,7 +12,7 @@
     <!-- == SOFTWARE SPECIFIC SECTION == -->
     <title>logitech-camera-settings (Install)</title>
     <authors>Logitech</authors>
-    <projectUrl>https://support.logi.com/hc/en-us/articles/360049055854</projectUrl>
+    <projectUrl>https://prosupport.logi.com/hc/en-gb/articles/5879701516439-Camera-Settings-04-MAY-2022</projectUrl>
     <iconUrl>http://rawcdn.githack.com/yeputons/chocolatey-packages/e8d620b7652fdd5326d0e4cdee4747284c0465cb/logitech-camera-settings/icons/logitech-camera-settings.png</iconUrl>
     <copyright>2020 Logitech</copyright>
     <licenseUrl>http://rawcdn.githack.com/yeputons/chocolatey-packages/f64fe17c97b54b21afd76a2549685adba4f51772/logitech-camera-settings/LogitechEula.txt</licenseUrl>
@@ -24,7 +24,7 @@
 
 This package merely downloads the installer from the official website and runs it. By doing so, you are agreeing to the EULA.
 
-This software appears on the [Downloads page for Logitech BRIO](https://prosupport.logi.com/hc/ru/articles/360039591834-Downloads-BRIO) and lists following compatible products as of 2021-04-13:
+This software listed the following compatible products as of 2021-04-13:
 
 * B525 HD Webcam
 * BCC950 ConferenceCam
@@ -45,7 +45,7 @@ This software appears on the [Downloads page for Logitech BRIO](https://prosuppo
 * Webcam C930e
     </description>
 
-    <releaseNotes>Version 2.12.8 has been released on 2020-10-26.</releaseNotes>
+    <releaseNotes>Version 2.12.20 has been released on 2022-05-04.</releaseNotes>
     <!-- =============================== -->      
   </metadata>
   <files>
